@@ -30,7 +30,7 @@ public class  integers {
 	      System.out.println("the smallest number is:"+smallest);
 	      
 	      int largest = n1;
-	      if(largest > n2)
+	      if(largest < n2)
 	      {largest=n2;}
 	      if(n3 > largest)
 	      {largest=n3;}
